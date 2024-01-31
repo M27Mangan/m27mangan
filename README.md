@@ -1,4 +1,6 @@
-### Hi there 👋
+<center>
+  <img src='https://github.com/M27Mangan/m27mangan/assets/7512607/80aae12b-2ac5-47f4-a252-aea35eab7e25' alt='banner image' width='100%' />
+</center>
 
 <!--
 **M27Mangan/m27mangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://wallhaven.cc/w/7pmqme)
+
+
+
